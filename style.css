@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+	background-color: black;
+}
+
+header {
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+
+ul {
+	color: gray;
+	text-align: center;
+	list-style-type: none;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	text-align: center;
+}
+
+footer {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
