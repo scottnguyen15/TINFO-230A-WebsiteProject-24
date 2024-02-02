@@ -1,35 +1,38 @@
-body {
-    font-family: 'Arial', sans-serif;
-	background-color: black;
-}
 
 header {
-	background-color: black;
-	text-align: center;
-	color: white;
-	padding: 20px;
+	margin: -22px -22px 0px -8px;
+	background-color: Gray;
+	text-align: left;
+	color: black;
+	padding: 10px 5px;
 }
 
-ul, li {
-	color: gray;
-	text-align: center;
-	list-style-type: none;
+ul {
+	display: flex;
+	list-style:none;
+	gap: 200px;
+	color: black;
 }
 
-h2 {
-	font-family: 'Roboto', sans-serif;
-	color: white;
-	text-align: center;
+body {
+    font-family: 'didot', serif;
+	background-color:Oldlace ;
 }
 
 p {
-	font-family: 'Roboto', sans-serif;
-	color: white;
+	font-family: 'didot', serif;
+	color: black;
 	text-align: center;
 }
 
 footer {
-	background-color: black;
-	text-align: center;
-	color: white;
+ 	position:absolute;
+    bottom: 0px;
+    float: right;z
+    height: 35px;
+    margin: 0px 50px 0px -8px;
+    background-color: Gray;
+    color: black;
+    text-align: right;
+    padding: 0px 0px 0px 8px;
 }
