@@ -16,6 +16,11 @@ ul {
 	list-style-type: none;
 }
 
+h2 {
+	color: gray;
+	text-align: center;
+}
+
 p {
 	font-family: 'Roboto', sans-serif;
 	color: white;
