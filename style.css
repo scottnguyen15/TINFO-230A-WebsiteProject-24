@@ -39,6 +39,20 @@ a {
 	margin: 5px;
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th, td {
+	padding: 20px;
+	display: block;
+	border: 1px solid;
+}
+
 /* Style for the nav. bar. */
 .topnav {
 	background-color: gray;
@@ -74,11 +88,5 @@ a {
 
 .service-title {
 	font-size: 20px;
-}
-
-.img-ctr {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
+	text-align: center;
 }
